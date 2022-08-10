@@ -1,5 +1,5 @@
 <p align="center">
-  <p align="center">The streaming build system</p>
+  <p align="center">Gulp 101</p>
 </p>
 
 <p align="center">
