@@ -1,5 +1,5 @@
 <p align="center">
-  <p align="center">Javascript Temelleri</p>
+  <h1 align="center">Javascript Temelleri</h1>
 </p>
 
 <p align="center">
