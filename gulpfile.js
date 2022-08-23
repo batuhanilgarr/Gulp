@@ -1,3 +1,11 @@
+
+//installation
+//npm install gulp gulp-sass sass gulp-clean-css gulp-autoprefixer gulp-terser
+
+
+
+
+
 const {src, dest, series, watch} = require('gulp');
 
 //styles
