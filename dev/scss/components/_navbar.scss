@@ -1,0 +1,24 @@
+@import '../helpers/variables';
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  .logo {
+    width: 100px;
+    height: 60px;
+  }
+  .navbar-items {
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    margin-left: auto;
+    li {
+      list-style: none;
+      a {
+        color: $mainColor;
+        text-decoration: none;
+      }
+    }
+  }
+}

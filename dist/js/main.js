@@ -1,0 +1,1 @@
+const file1=" this is file1.js",one=1,file2=" this is file2.js",file3=" this is file3.js";
